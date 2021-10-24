@@ -1,6 +1,20 @@
 ----   TAsk1.1   ------
+Submission instructions
 
-Copy aruco_library.py, Result_image_1.png and Result_image_2.png to a folder
-named <team_id>Task1_1.
+Rename all your python scripts with a prefix <SS_team_id>, for example the script name is aruco_detection.py and your team id is 1234, then rename the file as SS_1234_aruco_detection.py. Make sure you make changes everywhere in the code where you are including the files.
 
-Instructions for uploading the task will be provided on the portal.
+Also upload the video of the bonus task on youtube as unlisted with name <SS_team_id>_Task1_bonus. Submit the link of that youtube video in a text file named <SS_team_id>_video.txt
+
+Compress the python script along with the text file and result images directly to a zip file and name it with the file name <SS_team_id>.zip, for eg. SS_1234.zip
+
+Overall, your directory should look like this
+
+ __SS_1234.zip   
+      |__SS_1234_aruco_detection.py
+      |__SS_1234_aruco_detection_bonus.py
+      |__SS_1234_aruco_library.py
+      |__Result_image1.png
+      |__Result_image2.png
+      |__SS_1234_video.txt
+
+Submit the zip file containing solution of task 1 as well as the bonus task on the portal
